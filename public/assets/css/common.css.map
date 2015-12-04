@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../stdin"],"names":[],"mappings":"AAAA;EAEK,cAAc;EACd,oBAAoB;EACpB,kBAAkB,EACrB","file":"common.css","sourcesContent":["#homepage{\r\n\t.carousel {\r\n\t    height: 500px;\r\n\t    margin-bottom: 60px;\r\n\t    margin-top: -20px;\r\n\t}\t\r\n}"],"sourceRoot":"/source/"}

@@ -1,0 +1,13 @@
+@import 'common';
+
+#js-react-root {
+	margin-top: 
+	5em; 
+	a{
+		margin: 5px;
+		&after{
+			content: '';
+			background-color: gray;
+		}
+	}
+}

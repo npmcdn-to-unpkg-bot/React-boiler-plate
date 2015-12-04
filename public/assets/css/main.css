@@ -1,0 +1,14 @@
+#homepage .carousel {
+  height: 500px;
+  margin-bottom: 60px;
+  margin-top: -20px; }
+
+#js-react-root {
+  margin-top: 5em; }
+  #js-react-root a {
+    margin: 5px; }
+    #js-react-root aafter {
+      content: '';
+      background-color: gray; }
+
+/*# sourceMappingURL=main.css.map */
